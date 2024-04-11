@@ -2,7 +2,7 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - 🌱 I’m currently learning DSA with C++ and full stack development.
-My Tech Stack: NextJS, Redis, TypeScript, TailwindCSS, Figma.
+My Tech Stack: React, TailwindCSS.
 Languages I know: JavaScript, C++, Python, C.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
