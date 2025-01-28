@@ -11,8 +11,8 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My socials are listed below
-  - [Twitter](https://x.com/SachinS07868134)
-  - [LinkedIn](https://www.linkedin.com/in/sachin-singh-1496b12a1/)
+  - [Twitter](https://x.com/itsSachins0)
+  - [LinkedIn](https://www.linkedin.com/in/itsSachins0/)
   - [Portfolio/Website ](https://sachins0.github.io/Portfolio_Website/)
   - Mail me at **sachins.ssingh0@gmail.com** regarding any work or if you just wanna connect
 
